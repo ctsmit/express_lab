@@ -2,6 +2,7 @@
 #title#
 </head>
 <body>
-<header>#content#</header>
+<h6>#content#</h6
+
 #message#
 </body>
